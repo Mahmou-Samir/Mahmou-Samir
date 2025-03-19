@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Samir</h1>
 <h3 align="center">A Data Scientist from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmou-samir" alt="mahmou-samir" /></a> </p>
-
 - 🔭 I’m currently working on [Sales-Prediction-and-Optimization](https://github.com/Mahmou-Samir/Sales-Prediction-and-Optimization-.git)
 
 - 🌱 I’m currently learning **Data Science**
@@ -19,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mahmoud-samir-82715a24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahmoud-samir-82715a24a" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100033882469400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100033882469400" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-samir-82715a24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-samir-82715a24a" height="30" width="40" /></a>
+<a href="https://fb.com/mahmoud1samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud1samir" height="30" width="40" /></a>
 <a href="https://instagram.com/7x_p_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7x_p_" height="30" width="40" /></a>
 </p>
 
